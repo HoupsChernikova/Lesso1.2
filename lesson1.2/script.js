@@ -10,4 +10,4 @@ var multy = i*i1*i2*i3*i4;
 console.log(multy, "произведение (умножение) цифр " + num +" числа");
 
 var pow = multy**3;
-console.log(pow, "Возведение в 3 степень");
+alert ("Возведение в 3 степень " + pow);
